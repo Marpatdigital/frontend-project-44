@@ -1,0 +1,20 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Marpatdigital/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/Marpatdigital/frontend-project-44/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/frontend-project-44"
+  },
+  "author": "Oleg",
+  "license": "ISC",
+  "type": "module",
+    "bin": {
+      "brain-games": "bin/brain-games.js"
+    }
+  }
+
